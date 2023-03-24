@@ -1,0 +1,21 @@
+pwd = current location
+ls = show content
+cd = move to directory
+cd .. = go back one step
+mkdir = creat directory
+rm name = delete named file
+rmdir = delete directory
+rm -rf dirname = delete directory with all contents
+touch = create File
+cat name = show contents of named file
+nano name = work on named file
+mv name target = move named file to target location
+git add name or git add . = stage named file/stage all files
+git status = shows status
+git commit -m "name" = commit staged files with commit comment
+git push = pushes commited files to github
+git pull = pull files from github; local changes will be dismissed
+git fetch = pull files from github; local changes will stay
+git switch -c name = create new branch with name
+git branch -M name = rename branch
+
