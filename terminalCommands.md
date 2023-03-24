@@ -18,4 +18,5 @@ git pull = pull files from github; local changes will be dismissed
 git fetch = pull files from github; local changes will stay
 git switch -c name = create new branch with name
 git branch -M name = rename branch
-
+git reset = removes files from stage
+git branch -d name = delete named branch
